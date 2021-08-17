@@ -9,7 +9,7 @@ def play(p1, p2, current_player)
     return
   end
 
-  # generate a new question
+  # create a new question
   q = Question.new
 
   # print out question
